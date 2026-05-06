@@ -1,5 +1,5 @@
 # WBC_detection
-A YOLOv11-based object detection system for identifying red blood cells, white blood cells, and platelets in microscopic images to assist automated medical analysis.
+A YOLOv11-based object detection system for identifying white blood cells in microscopic images to assist automated medical analysis.
 
 *WBC Detection:* Utilizes a custom-trained YOLOv11 nano model to accurately identify WBCs in microscopic images.
 WBC Classification: Classifies WBCs into Lymphocytes (LYM), Neutrophils (NEU), and Monocytes (MON) based on their detected diameters.
